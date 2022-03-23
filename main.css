@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,400;0,700;1,400;1,700&display=swap');body {
+    font-family: "Overpass";
+    
+}
+#mainjumbotron {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("map.jpg");
+    background-position: center bottom;
+    color: #eeeeee;
+    background-attachment: fixed;
+    border-radius: 0!important;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+  }
